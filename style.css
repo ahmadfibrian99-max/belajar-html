@@ -5,6 +5,9 @@ p {
     color: black;
 }
 button {
-    color: yellow;
-    background-color: green;
+    color: black;
+    background-color: yellow;
+    
+    width:250px;
+    height:70px;
 }
